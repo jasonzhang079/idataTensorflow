@@ -13,6 +13,10 @@ Knowledge and Experience Sharing in ML Projects about Model data preparation/enc
 - ML concepts
 - ML models (model, train, evaluation, inference)
 - tensorflow
-- tensorflow deployment
-- data preparation
-  - spark
+  - tensorflow deployment
+  - data preparation
+- spark
+  -pyspark
+  -scala
+  -pymongo
+- ML projects  
